@@ -155,7 +155,7 @@ section:hover {
 }
 
 /* Responsive Design */
-@media (max-width: 768px) {
+@media (max-width: 600px) {
     .skills-container {
         flex-direction: column;
         align-items: center;
