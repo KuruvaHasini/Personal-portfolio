@@ -19,7 +19,7 @@ body {
 
 /* Header Section */
 header {
-    width: 100%;
+    width: 100vw;
     background: linear-gradient(135deg, #34495e, #2c3e50);
     color: white;
     padding: 30px 20px;
